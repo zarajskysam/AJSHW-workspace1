@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DBrowser basedgame\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarajskysam/AJSHW-workspace1.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "zarajskysam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zarajskysam/AJSHW-workspace1/issues"
+  },
+  "homepage": "https://github.com/zarajskysam/AJSHW-workspace1#readme"
+}
